@@ -1,0 +1,12 @@
+pic1-1、pic1-2、pic1-3：1号反应器出水COD
+pic1-4、pic1-5、pic1-6：1号反应器出水VFA
+
+pic2-1、pic2-2、pic2-3：2号反应器出水COD
+pic2-4、pic2-5、pic2-6：2号反应器出水VFA
+
+pic3-1、pic3-2、pic3-3：3号反应器出水COD
+pic3-4、pic3-5、pic3-6：3号反应器出水VFA
+
+corr1:1号反应器属性相关系数
+corr2:2号反应器属性相关系数
+corr3:3号反应器属性相关系数
